@@ -1,0 +1,14 @@
+deploy local server:
+- npm start
+- work on the website normally`
+
+commit changes:
+- git add .
+- git commit -m "test"
+- git push origin main
+
+deploy remote server (??):
+- npm run deploy
+
+subtext
+rgb(128, 128, 128)

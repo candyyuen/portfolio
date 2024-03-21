@@ -1,4 +1,6 @@
 import React from "react";
+import { BsFiletypeJava } from "react-icons/bs";
+import { BsFiletypeHtml } from "react-icons/bs";
 import { Col, Row } from "react-bootstrap";
 import {
   SiVisualstudiocode,
@@ -12,20 +14,12 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
+      <BsFiletypeJava />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+      <BsFiletypeHtml />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiSlack />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
-      </Col>
+
     </Row>
   );
 }

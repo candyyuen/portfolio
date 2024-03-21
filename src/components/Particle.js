@@ -7,6 +7,9 @@ function Particle() {
       id="tsparticles"
       params={{
         particles: {
+          color: {
+            value: ['#f8c7f0', "#faee8f"]
+          },
           number: {
             value: 160,
             density: {

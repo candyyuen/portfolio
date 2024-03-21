@@ -16,6 +16,7 @@ function Footer() {
       <Row>
         <Col md="4" className="footer-copywright">
           <h3>Designed and Developed by Candy Yuen</h3>
+          <h5>Template Credit @Soumyajit Behera</h5>
         </Col>
         <Col md="4" className="footer-copywright">
           <h3>Copyright © {year} Candy Yuen</h3>

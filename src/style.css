@@ -476,6 +476,14 @@ button:focus {
   margin-top: 0.5em !important;
   margin-bottom: 0.5em !important;
 }
+
+.footer h5 {
+  font-size: 0.5em;
+  color: rgb(191, 191, 191) !important;
+  margin-top: 0.5em !important;
+  margin-bottom: 0.5em !important;
+}
+
 .footer-icons {
   margin-top: 0.5em !important;
   margin-bottom: 0.5em !important;

@@ -6,6 +6,7 @@ import Particle from "../Particle";
 import URA1 from "../../Assets/URA2.png";
 import unicorn1 from "../../Assets/animation1.png";
 import unicorn2 from "../../Assets/animation2.png";
+import map from "../../Assets/animation3.png";
 import video1 from "../../Assets/video1.png";
 import video2 from "../../Assets/jollymap1.png";
 import video3 from "../../Assets/video5.png";
@@ -68,6 +69,17 @@ function Projects() {
               demoLink="https://youtube.com/playlist?list=PLhaILNq6AAY4EHOr8R2qkZi1CmD-8FSaP&si=vbQTWtvjz8-A1rQj"
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={map}
+              isBlog={false}
+              title="Map Animation | Personal Work"
+              description="This is my first map animation tryout. The animation demonstrate the Japan Cherry Blossom Forecast 2024. "
+              demoLink="https://youtu.be/h27pDz4kTOc"
+            />
+          </Col>
+
 
           <Col md={4} className="project-card">
             <ProjectCard

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.ddc11a4b.css",
-    "main.js": "/portfolio/static/js/main.e840b37c.js",
+    "main.js": "/portfolio/static/js/main.bb6d9714.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Home.png": "/portfolio/static/media/Home.8f6b3e8abde33af16ec0.png",
@@ -20,16 +20,16 @@
     "static/media/animation1.png": "/portfolio/static/media/animation1.fb2d041acb2aff24ae5a.png",
     "static/media/animation2.png": "/portfolio/static/media/animation2.3b5b4cef0e65d336d6a0.png",
     "static/media/Comp 3_2.gif": "/portfolio/static/media/Comp 3_2.dc4c051fad0761c4eaf5.gif",
-    "static/media/YuenTszChing_CV.pdf": "/portfolio/static/media/YuenTszChing_CV.478e115fa52fa7a60065.pdf",
+    "static/media/YuenTszChing_CV.pdf": "/portfolio/static/media/YuenTszChing_CV.17249c19561466cbcaa4.pdf",
     "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.a7e5f8eb1da095664139.jpg",
     "index.html": "/portfolio/index.html",
     "main.ddc11a4b.css.map": "/portfolio/static/css/main.ddc11a4b.css.map",
-    "main.e840b37c.js.map": "/portfolio/static/js/main.e840b37c.js.map",
+    "main.bb6d9714.js.map": "/portfolio/static/js/main.bb6d9714.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ddc11a4b.css",
-    "static/js/main.e840b37c.js"
+    "static/js/main.bb6d9714.js"
   ]
 }

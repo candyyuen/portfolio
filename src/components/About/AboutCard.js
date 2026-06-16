@@ -16,7 +16,7 @@ function AboutCard() {
             Hello Everyone, I am <span className="yellow">Candy<AiOutlineSmile /> </span>
             <br />
             <br />
-            I am a recent graduate from City University of Hong Kong with a degree in Media and Communication.
+            I’m a Content Specialist and Web Editor based in Hong Kong, currently working in the broadcasting and digital media industry.
             <br />
             <br />
             In my free time, I enjoy

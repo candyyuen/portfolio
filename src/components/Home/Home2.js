@@ -15,25 +15,56 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am passionate about creative industries......🙈
+            I’m a 
+            <b className="purple">
+            &nbsp;Content Specialist&nbsp; 
+            </b>
+            and 
+            <b className="purple">
+            &nbsp;Web Editor&nbsp; 
+            </b>
+            with experience across broadcasting, digital media, and content marketing.
               <br />
-              <br />During my studying, I have gained valuable experience in various areas,
+              <br />Currently working at Commercial Radio Hong Kong, I manage
               <i>
-                <b className="purple"> including animation, documentary production, video news, photography, and digital marketing. </b>
+                <b className="purple"> 
+                &nbsp;digital content&nbsp;  
+                </b>
+                &nbsp;for radio programmes, producing&nbsp;  
+                <b className="purple"> 
+                &nbsp;social media content, short-form videos,&nbsp;  
+                </b>
+                and
+                <b className="purple"> 
+                &nbsp;promotional campaigns&nbsp; 
+                </b> 
               </i>
+              that connect with audiences across multiple platforms.
               <br />
               <br />
-              One of my strengths is to flexibly apply my
+              My background spans
               <i>
-                <b className="purple"> creative skills </b> 
-             </i>
-                across various projects and industries. I possess an {" "}
-                <i>
+                <b className="purple"> content production, video editing, social media management, live-stream operations,&nbsp;  
+                </b> 
+                and agency-side
                 <b className="purple">
-                open-minded&nbsp;
+                &nbsp;digital marketing.&nbsp;  
+                </b>
+             </i>
+             From content ideation and scripting to production and distribution, I enjoy transforming creative concepts into engaging digital experiences. {" "}
+                <i>
+              <br />
+              <br />
+                Passionate about
+                <b className="purple">
+                &nbsp;storytelling&nbsp;
+                </b>
+                and
+                <b className="purple">
+                &nbsp;audience engagement
                 </b>
                 </i>
-                nature that fosters the generation of innovative ideas. 
+                , I continuously explore new formats and trends to create content that informs, entertains, and resonates.
               <br />
              
               <br />

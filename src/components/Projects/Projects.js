@@ -25,7 +25,7 @@ function Projects() {
           My  <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: " rgb(64, 64, 64)" }}>
-          Here are a few projects I've worked on recently.
+          Here are a few projects I've worked on.
         </p>
 
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
